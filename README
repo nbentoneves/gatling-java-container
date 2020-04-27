@@ -1,0 +1,3 @@
+
+
+java -cp target/gatling-docker-swarm-1.0-SNAPSHOT.jar io.gatling.app.Gatling -s gatling.simulations.BasicSimulation
